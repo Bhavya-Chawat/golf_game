@@ -7,7 +7,7 @@
 A lightweight 3D mini golf game built with Three.js.  
 Play in your browser, aim and shoot across multiple holes, and optionally save best scores with Supabase authentication.
 
-**Live Game:** 👉 [**Play Online Now**](https://https://golf-game-psi.vercel.app/) <br>
+**Live Game:** 👉 [**Play Online Now**](https://golf-game-psi.vercel.app/) <br>
 **Deployed Link:** `https://golf-game-psi.vercel.app/`
 
 ## ✨ Highlights
