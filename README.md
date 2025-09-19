@@ -54,7 +54,11 @@ Play in your browser, aim and shoot across multiple holes, and optionally save b
 | ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | <img src="/media/imgs/create_acc.jpg" alt="Screenshot 1" width="100%"/> | <img src="/media/imgs/level_2.jpg" alt="Screenshot 2" width="100%"/> |
 
-<video src="/media/vids/Game.mp4" controls width="100%" title="Gameplay Demo"></video>
+<br>
+
+![til](https://github.com/Bhavya-Chawat/golf_game/blob/main/media/vids/demo.gif)
+
+<br>
 
 Full video link: [Demo Video On Youtube](https://youtu.be/AXhdfif_a0s)
 
